@@ -52,7 +52,6 @@ int solve(){
         Q.push((VERTEX){a,b});
       }
     }
-
   }
   return visited[Ga][Gb];
 }
